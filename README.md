@@ -1,0 +1,2 @@
+# GetEmpCode
+Lab1
